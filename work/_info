@@ -1,0 +1,259 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/pc/Downloads/run_QuestaSim_by_Makefile/lab08-riscv
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+valu
+Z1 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z2 DXx4 work 8 typedefs 0 22 `2E_TRK^a==dk:I<h<dIJ0
+DXx4 work 11 alu_sv_unit 0 22 kP53V2SDeG^0j`Wg@Tng62
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+I4k2HInV61FbPb^VC=5bA93
+S1
+Z4 dC:/Users/pc/Downloads/run_QuestaSim_by_Makefile/lab08-riscv
+Z5 w1770068416
+Z6 8alu.sv
+Z7 Falu.sv
+L0 3
+Z8 OL;L;10.2c;57
+Z9 !s108 1774367735.559000
+Z10 !s107 cpu_test.sv|cpu.sv|scale_mux.sv|register.sv|mem.sv|counter.sv|control.sv|alu.sv|typedefs.sv|
+Z11 !s90 -f|compile.f|
+Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!s100 3h_QU17GISQ]AN54<?blH2
+!s105 alu_sv_unit
+!i10b 1
+!i111 0
+Xalu_sv_unit
+R1
+R2
+VkP53V2SDeG^0j`Wg@Tng62
+r1
+31
+IkP53V2SDeG^0j`Wg@Tng62
+S1
+R4
+R5
+R6
+R7
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 >BKaQ3UHm7A9<3<L;X;cf1
+!i10b 1
+!i103 1
+!i111 0
+vcontrol
+R1
+R2
+DXx4 work 15 control_sv_unit 0 22 0dZ651?DZR<9V;LJe87Yb0
+R3
+r1
+31
+IEYQFi9jTESLIh6EHmjWgo0
+S1
+R4
+Z13 w1771913518
+Z14 8control.sv
+Z15 Fcontrol.sv
+L0 3
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 FO49RhGDQUBbKW0LDWk9>1
+!s105 control_sv_unit
+!i10b 1
+!i111 0
+Xcontrol_sv_unit
+R1
+R2
+V0dZ651?DZR<9V;LJe87Yb0
+r1
+!s85 0
+31
+I0dZ651?DZR<9V;LJe87Yb0
+S1
+R4
+R13
+R14
+R15
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s100 ^cdCHm]D5odM`n^A@lnOV0
+!i10b 1
+!i103 1
+!i111 0
+vcounter
+R1
+R3
+r1
+31
+INDSEKz@kTd2WVW:WWHRN`3
+S1
+R4
+w1770071382
+8counter.sv
+Fcounter.sv
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 TKohdVYSBOW0l^GY=S@ZS3
+!s105 counter_sv_unit
+!i10b 1
+!i111 0
+vcpu
+R1
+R2
+R3
+r1
+31
+IEHIaVgg9?m]Z:5ahJaQDH0
+S1
+R4
+w1770071560
+8cpu.sv
+Fcpu.sv
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 TDVe161:nK?0>dfCnbm=_2
+!s105 cpu_sv_unit
+!i10b 1
+!i111 0
+vcpu_test
+R1
+R2
+R3
+r1
+31
+I`jWW1zl<i@LAPMWF@X23E1
+S1
+R4
+w1772107826
+8cpu_test.sv
+Fcpu_test.sv
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 E_83N:Qc;FRTR@]YI5AUj0
+!s105 cpu_test_sv_unit
+!i10b 1
+!i111 0
+vmem
+R1
+R3
+r1
+31
+Ie:;A403^jR2?@EGeB=Fmh2
+S1
+R4
+w1770068428
+8mem.sv
+Fmem.sv
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 fTDY7N_k8hI:=o:NX3GJk1
+!s105 mem_sv_unit
+!i10b 1
+!i111 0
+vregister
+R1
+R3
+r1
+31
+IWEaG0W>mldTznXf7_`nfK0
+S1
+R4
+w1770068360
+8register.sv
+Fregister.sv
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 kc^lRb7z;zdWGJn3I^dh52
+!s105 register_sv_unit
+!i10b 1
+!i111 0
+vscale_mux
+R1
+R3
+r1
+31
+IU3SON0c8]^go;]@PeP>EV3
+S1
+R4
+w1770068374
+8scale_mux.sv
+Fscale_mux.sv
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 iESFFTLHC`jBK9:I]8of93
+!s105 scale_mux_sv_unit
+!i10b 1
+!i111 0
+Xtypedefs
+R1
+V`2E_TRK^a==dk:I<h<dIJ0
+r1
+31
+I`2E_TRK^a==dk:I<h<dIJ0
+S1
+R4
+w1770068466
+8typedefs.sv
+Ftypedefs.sv
+L0 1
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!s100 0o^_55Jzf78Y0G`7ZWHPA1
+!i10b 1
+!i111 0
